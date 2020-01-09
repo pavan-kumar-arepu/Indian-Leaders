@@ -24,3 +24,4 @@ I would suggest you to create a new application as its a single view controller 
 
 For any information: please contact : iosdeveloper.ipa@gmail.com
 
+Appreciate, if you use MVVM, RxSwift
